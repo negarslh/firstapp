@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    height: 50px;
+    background-color: #a97e97;
+    align-items: center;
+    justify-content: center;
+}
+.container p {
+    line-height: 50px;
+    font-weight: bold;
+}
