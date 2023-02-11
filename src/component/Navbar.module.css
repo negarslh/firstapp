@@ -11,9 +11,6 @@
     padding: 10px;
     margin: auto 0;
 }
-.listContainer {
-
-}
 .list {
     display: flex;
     list-style: none;
